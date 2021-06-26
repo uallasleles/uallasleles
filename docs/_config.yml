@@ -1,12 +1,12 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Uallas Leles
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+baseurl             : "https://uallasleles.github.io/"                         # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : https://github.com/uallasleles/uallasleles.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : https://github.com/uallasleles/uallasleles.github.io
 
 
 ### Plugins ###
@@ -24,24 +24,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Uallas Leles
+  image             : https://i.imgur.com/bkkCTA0.jpg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : uallasleles@hotmail.com
+# facebook          : your_username
+  github            : https://github.com/uallasleles/
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : https://www.linkedin.com/in/uallas-leles/
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
